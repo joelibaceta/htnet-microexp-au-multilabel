@@ -1,0 +1,9 @@
+env
+__pycache__/
+*.log
+*.out
+*.gz
+*.aux
+.env
+out
+wandb
